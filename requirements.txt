@@ -1,8 +1,0 @@
-pyrogram
-tgcrypto
-yt-dlp
-youtube-search
-pytube
-requests
-flask
-gunicorn
